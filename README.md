@@ -1,4 +1,4 @@
-## Gezegenleri ve gezegenlerin özelliklerinin yazdığım ufak bir proje.
+### Gezegenleri ve gezegenlerin özelliklerinin yazdığım ufak bir proje.
 
 # Getting Started with Create React App
 
