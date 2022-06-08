@@ -1,4 +1,5 @@
 ### Gezegenleri ve gezegenlerin özelliklerinin yazdığım ufak bir proje.
+https://about-planets.vercel.app/
 
 # Getting Started with Create React App
 
